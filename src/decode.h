@@ -16,8 +16,8 @@
  * \brief Decodes and encodes entered text.
  *
  * \author  KNCH
- * \version 0.1
- * \date    01.12.2011
+ * \version 0.2
+ * \date    11.03.2012
  */
 class Decode : public QObject
 {

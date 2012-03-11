@@ -1,0 +1,5 @@
+TooRussian
+Version 0.2
+
+Utility for decoding text, entered using wrong keyboard layout (EN --> RU, RU --> EN).
+This application is using SQLite database "TooRussianDB.db", which should be placed in the same directory with executable file.
